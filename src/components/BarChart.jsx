@@ -25,6 +25,7 @@ const BarChart = ({isDashboard=false}) => {
                     ticks:{
                         line:{
                            stroke:colors.grey[100],
+                           
                            strokeWidth:1
                         },
                         text:{
